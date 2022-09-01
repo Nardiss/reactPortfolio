@@ -1,10 +1,10 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/port-1.jpg",
+            "title": "Budget Tracker",
+            "description": "React, JSX, Jest",
+            "url": "https://github.com/Nardiss/Social-NET-API"
         },
         {
             "cover": "/portfolio/1/one.png",

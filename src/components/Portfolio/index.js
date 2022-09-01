@@ -36,7 +36,7 @@ const Portfolio = () => {
                         return (
                             <div className="image-box" key={idx}>
                                 <img 
-                                src={port.image}
+                                src={port.image-1}
                                 className="portfolio-image"
                                 alt="portfolio" />
                                 <div className="content">
